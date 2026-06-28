@@ -4,9 +4,8 @@
       <strong>Backend Engineer.</strong> Building robust APIs, one Spring Boot project at a time.
     </td>
     <td align="right">
-      <a href="https://yourportfolio.com">Portfolio</a> ·
-      <a href="https://linkedin.com/in/yourhandle">LinkedIn</a> ·
-      <a href="https://x.com/yourhandle">X</a>
+      <a href="https://www.linkedin.com/in/mritunjay-senapati/">LinkedIn</a> ·
+      <a href="https://x.com/Senapati_28">X</a>
     </td>
   </tr>
 </table>
